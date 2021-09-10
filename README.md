@@ -36,4 +36,4 @@ Any statement in this repository that is not purely historical is considered a f
 
 ## Attribution
 
-This roadmap is based on the [GitHub public roadmap](https://github.com/github/roadmap) used under the terms of the CC-BY-4.0 license.
+This roadmap is based on the [GitHub public roadmap](https://github.com/github/roadmap) used under the terms of the CC-BY-4.0 license and the [Primcloud public roadmap](https://github.com/primcloud/roadmap) used under the terms of the MIT license.
