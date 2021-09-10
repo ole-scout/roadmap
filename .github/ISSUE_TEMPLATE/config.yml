@@ -6,3 +6,6 @@ contact_links:
   - name: Have a question?
     url: https://github.com/ole-scout/roadmap/discussions/categories/q-a
     about: Check out Q&A discussions for an existing answer, or create a question.
+  - name: Need something specific to your needs?
+    url: https://ole-scout.com
+    about: Contact our sales team using the contact form on our website.

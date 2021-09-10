@@ -26,7 +26,7 @@ Our development process is split into the following phases to help us better pri
 
 + *Released*: features that have been recently completed and are now available or in the process of being rolled out.
 
-* *Postponed / Icebox*: features that have not been rejected but are still being considered for future development.
+* *Postponed / Icebox*: features that have been rejected for immediate development but are still being considered for future development.
 
 Please note that any indications about proposed or unfished features are only provided to offer transparency into our development process to our existing customers. If you need us to implement a feature or commit to providing a feature by a given date, please contact our sales team using the contact form on [our website](https://ole-scout.com) for a formal quote.
 
