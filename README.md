@@ -1,6 +1,6 @@
 # OLE Scout public roadmap
 
-In this repository, you can find the official [OLE Scout public product roadmap](https://github.com/ole-scout/roadmap/projects/1). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you.
+In this repository, you can find the official [OLE Scout public product roadmap](https://github.com/orgs/ole-scout/projects/4). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you.
 
 Have any questions or comments about items on the roadmap? Use the roadmap [discussions](https://github.com/ole-scout/roadmap/discussions) to [suggest new features](https://github.com/ole-scout/roadmap/discussions/categories/ideas) or [ask general questions](https://github.com/ole-scout/roadmap/discussions/categories/q-a). Or share your feedback with us more privately using [our website](https://ole-scout.com).
 
